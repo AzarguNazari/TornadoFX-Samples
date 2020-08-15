@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>no.tornado.fxsample</groupId>
+    <artifactId>parent</artifactId>
+    <version>1.0</version>
+    <modules>
+        <module>login</module>
+        <module>charts</module>
+        <module>treeviews</module>
+        <module>forms</module>
+        <module>tableviews</module>
+        <module>itemviewmodel</module>
+        <module>spring-example</module>
+        <module>workspace</module>
+        <module>pdf-viewer</module>
+    </modules>
+    <packaging>pom</packaging>
+
+    <properties>
+        <tornadofx.version>1.7.16</tornadofx.version>
+        <kotlin.version>1.2.41</kotlin.version>
+        <kotlin.compiler.jvmTarget>1.8</kotlin.compiler.jvmTarget>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <!-- https://mvnrepository.com/artifact/no.tornado/tornadofx -->
+            <dependency>
+                <groupId>no.tornado</groupId>
+                <artifactId>tornadofx</artifactId>
+                <version>1.7.20</version>
+            </dependency>
+
+            <!-- https://mvnrepository.com/artifact/org.openjfx/javafx -->
+            <dependency>
+                <groupId>org.openjfx</groupId>
+                <artifactId>javafx</artifactId>
+                <version>11</version>
+                <type>pom</type>
+            </dependency>
+            <dependency>
+                <groupId>org.openjfx</groupId>
+                <artifactId>javafx-base</artifactId>
+                <version>11.0.2</version>
+            </dependency>
+            <dependency>
+                <groupId>org.openjfx</groupId>
+                <artifactId>javafx-controls</artifactId>
+                <version>11.0.2</version>
+            </dependency>
+            <!-- https://mvnrepository.com/artifact/de.jensd/fontawesomefx -->
+            <dependency>
+                <groupId>de.jensd</groupId>
+                <artifactId>fontawesomefx</artifactId>
+                <version>8.9</version>
+            </dependency>
+            <dependency>
+                <groupId>org.controlsfx</groupId>
+                <artifactId>controlsfx</artifactId>
+                <version>8.40.10</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+</project>
