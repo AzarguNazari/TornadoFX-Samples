@@ -5,7 +5,13 @@ Samples and best practice showcase for TornadoFX
 
 ## Demos
 
-- Login - Login screen, remember me, main view only shown to logged in users.
-- Charts - Show all barcharts that can be made.
-- Forms - Show how forms work
-- Treeviews - Show two ways of building treeviews.
+- [Login](https://github.com/AzarguNazari/TornadoFX-Samples/tree/master/login) - Login screen, remember me, main view only shown to logged in users.
+- [Charts](https://github.com/AzarguNazari/TornadoFX-Samples/tree/master/charts) - Show all barcharts that can be made.
+- [Forms](https://github.com/AzarguNazari/TornadoFX-Samples/tree/master/forms) - Show how forms work
+- [Treeviews](https://github.com/AzarguNazari/TornadoFX-Samples/tree/master/treeviews) - Show two ways of building treeviews.
+- [Graphics](https://github.com/AzarguNazari/TornadoFX-Samples/tree/master/graphics)
+- [Item View Model](https://github.com/AzarguNazari/TornadoFX-Samples/tree/master/itemviewmodel) 
+- [PDF Viewer](https://github.com/AzarguNazari/TornadoFX-Samples/tree/master/pdf-viewer) 
+- [Spring Framework With TornadoFX](https://github.com/AzarguNazari/TornadoFX-Samples/tree/master/spring-example)
+- [Table View](https://github.com/AzarguNazari/TornadoFX-Samples/tree/master/tableviews)
+- [Workspace](https://github.com/AzarguNazari/TornadoFX-Samples/tree/master/workspace)
