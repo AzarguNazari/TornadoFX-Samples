@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>no.tornado.fxsample</groupId>
-    <artifactId>parent</artifactId>
+    <artifactId>TornadoFX-Samples</artifactId>
     <version>1.0</version>
     <modules>
         <module>login</module>
