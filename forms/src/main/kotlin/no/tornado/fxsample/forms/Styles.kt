@@ -1,18 +1,16 @@
 package no.tornado.fxsample.forms
 
-import tornadofx.Stylesheet
-import tornadofx.box
-import tornadofx.cssclass
-import tornadofx.px
+import tornadofx.*
 
 class Styles : Stylesheet() {
+
     companion object {
         val zip by cssclass()
     }
 
     init {
         s(form) {
-            padding = box(25.px)
+            padding = box(30.px)
             prefWidth = 450.px
 
             s(zip) {

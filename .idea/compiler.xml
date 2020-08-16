@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-example" />
+        <module name="workspace" />
+        <module name="login" />
+        <module name="tableviews" />
+        <module name="pdf-viewer" />
+        <module name="forms" />
+        <module name="withFXproperties" />
+        <module name="charts" />
+        <module name="treeviews" />
+        <module name="withpojo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="charts" target="11" />
+      <module name="forms" target="11" />
+      <module name="itemviewmodel" target="1.5" />
+      <module name="login" target="11" />
+      <module name="pdf-viewer" target="11" />
+      <module name="spring-example" target="11" />
+      <module name="tableviews" target="11" />
+      <module name="TornadoFX-Samples" target="1.5" />
+      <module name="treeviews" target="11" />
+      <module name="withFXproperties" target="11" />
+      <module name="withpojo" target="11" />
+      <module name="workspace" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

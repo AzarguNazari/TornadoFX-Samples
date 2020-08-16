@@ -47,7 +47,7 @@ class CustomerForm : View("Register Customer") {
             }
 
             enableWhen(model.valid)
-        }
+        }.setOnMouseClicked { println(model.birthday.get) }
     }
 
 }

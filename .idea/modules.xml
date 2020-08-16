@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TornadoFX-Samples.iml" filepath="$PROJECT_DIR$/TornadoFX-Samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/charts/charts.iml" filepath="$PROJECT_DIR$/charts/charts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forms/forms.iml" filepath="$PROJECT_DIR$/forms/forms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itemviewmodel/itemviewmodel.iml" filepath="$PROJECT_DIR$/itemviewmodel/itemviewmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdf-viewer/pdf-viewer.iml" filepath="$PROJECT_DIR$/pdf-viewer/pdf-viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-example/spring-example.iml" filepath="$PROJECT_DIR$/spring-example/spring-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tableviews/tableviews.iml" filepath="$PROJECT_DIR$/tableviews/tableviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treeviews/treeviews.iml" filepath="$PROJECT_DIR$/treeviews/treeviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itemviewmodel/withFXproperties/withFXproperties.iml" filepath="$PROJECT_DIR$/itemviewmodel/withFXproperties/withFXproperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itemviewmodel/withpojos/withpojo.iml" filepath="$PROJECT_DIR$/itemviewmodel/withpojos/withpojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace/workspace.iml" filepath="$PROJECT_DIR$/workspace/workspace.iml" />
+    </modules>
+  </component>
+</project>
